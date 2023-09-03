@@ -3,6 +3,8 @@
 # 💫 About Me:
 I'm 4th year Com-Sci student in University of Victoria*^_^*.
 
+Visit my portfolio website: www.yaledevworld.com
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yaledev) 
